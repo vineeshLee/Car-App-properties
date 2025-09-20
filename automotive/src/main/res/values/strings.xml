@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarAppDemo</string>
+    <string name="gear_status">Gear Status:</string>
+    <string name="get_status">Get Status</string>
+    <string name="get_fuel_status">Get Fuel Status</string>
+    <string name="fuel_status">Fuel Status</string>
+</resources>
